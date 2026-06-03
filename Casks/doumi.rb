@@ -1,6 +1,6 @@
 cask "doumi" do
   version "0.1.1"
-  sha256 "5d983097e1e62bdd99f1b5a32aad22949e009e2368524745253858ee8ffadb5a"
+  sha256 "3ddc292b37fe74487408cb8064eef6cb30b0303221c6dfbd6268f733405ee797"
 
   url "https://github.com/xirtus/doumi/releases/download/v#{version}/Doumi-#{version}.dmg"
   name "Doumi"
